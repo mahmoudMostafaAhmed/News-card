@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+
+    <entry>
+        <key>small_font_size</key>
+        <value>16</value>
+    </entry>
+    <entry>
+        <key>medium_font_size</key>
+        <value>20</value>
+    </entry>
+    <entry>
+        <key>large_font_size</key>
+        <value>24</value>
+    </entry>
+
+    <!-- color entries -->
+    <entry>
+        <key>title_color</key>
+        <value>#3F51B5</value>
+    </entry>
+    <entry>
+        <key>description_color</key>
+        <value>#303F9F</value>
+    </entry>
+    <entry>
+        <key>app_intro</key>
+        <value>TAB_BAR</value>
+    </entry>
+</defaultsMap>
